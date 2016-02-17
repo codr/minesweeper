@@ -52,7 +52,7 @@ define([
                 this.evaluateGame();
             } else {
                 this.displayMessage('You\'re not quite there. <strong>Keep going!</strong><br>' +
-                    '<small>Don\t worry I\'ll let you know when you\'re there.</small>', 'info');
+                    '<small>Don\'t worry I\'ll let you know when you\'re there.</small>', 'info');
             }
         },
 
